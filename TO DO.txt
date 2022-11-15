@@ -1,0 +1,5 @@
+napisać funkcje do filtrowania adresów z danych z PostOutput.csv
+napisać kod do segregowania adresów według dystansu(API)
+napisać kod do tworzenia trasy na mapach
+napisać funkcje która usuwałaby wszystkie zdjęcia po przerzuceniu danych do pliku 
+oraz taką która wyczyściła by plik z adresami po utworzeniu trasy/stworzyła kolejny nowy z nowymi adresami
